@@ -1,0 +1,9 @@
+1. Backend development is the server-side logic of the web application. 
+HTTP requests are processed from the frontend, applies the business logic, manages data, and 
+communicates with the APIs. Then it returns the requested data successfully and show it
+to users (or fail if erorrs occur).
+
+2. node.js, Django
+
+3. APIs is a component that enables the communication between fronted, backend, and other external services.
+
